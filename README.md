@@ -1,6 +1,6 @@
 # ¡Hola! Soy Rubén Pérez Otero 👋
 
-Soy un apasionado de la tecnología actualmente cursando **1º de Desarrollo de Aplicaciones Multiplataforma (DAM)** en Galicia. Me considero una persona curiosa, constante y con muchas ganas de aprender cómo funcionan las cosas "por debajo del capó".
+Soy un apasionado de la tecnología actualmente cursando **Desarrollo de Aplicaciones Multiplataforma (DAM)** en Galicia. Me considero una persona curiosa, constante y con muchas ganas de aprender cómo funcionan las cosas "por debajo del capó".
 
 ---
 
