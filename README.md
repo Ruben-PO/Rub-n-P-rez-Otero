@@ -4,8 +4,16 @@ Soy un apasionado de la tecnología actualmente cursando **1º de Desarrollo de 
 
 ---
 
+### 🔎 Destacado
+
+**[sigma-attack-detection-lab](https://github.com/Ruben-PO/sigma-attack-detection-lab)** — Investigué una técnica real de MITRE ATT&CK (T1497.001), la reproduje en un laboratorio propio, escribí y validé una regla de detección Sigma a partir de logs reales, y abrí un Pull Request al repositorio oficial de SigmaHQ: [SigmaHQ/sigma#6258](https://github.com/SigmaHQ/sigma/pull/6258).
+
+**[seawall](https://github.com/Ruben-PO/seawall)** — Panel de terminal (TUI) para vigilancia marítima en tiempo real: datos AIS en vivo, métricas de hardware y detección de anomalías de seguridad.
+
+---
+
 ### 🚀 Sobre mí
-* 📚 Estudiante de primer año enfocado en asentar bases sólidas de programación.
+* 📚 Estudiante de DAM, centrado en asentar bases sólidas de programación.
 * 🛡️ Me interesan la **IA**, la **Ciberseguridad**, la gestión de **Servidores** y las **Bases de Datos**.
 * 🌲 Cuando no estoy delante de la pantalla, me encontrarás disfrutando de la **naturaleza** o practicando **deporte**.
 
@@ -15,10 +23,6 @@ Soy un apasionado de la tecnología actualmente cursando **1º de Desarrollo de 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 📊 Estadísticas
-![Estadísticas de Rubén](https://github-readme-stats.vercel.app/api?username=Ruben-PO&show_icons=true&theme=dark&hide_border=true)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruben-PO&layout=compact&theme=dark&hide_border=true)
 
 ---
 
